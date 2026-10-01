@@ -2,7 +2,7 @@
 Hands-on Linux labs I complete while preparing for an IT Support / SysAdmin role.
 Each week I document the commands I used, the mistakes I made, and what I learned.
 
-#Lab Environment
+##Lab Environment
 - Host: Windows 11, Vmware Workstation
 - Server: Ubuntu Server 24.04 LTS (no GUI), accessed via SSH
 
